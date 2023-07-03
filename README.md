@@ -1,7 +1,7 @@
 # CounsimenExample
 Common sense with AI.
 
-~~~
+~~~ruby
 a = "counsilmen"
 b = "demonstrators"
 
